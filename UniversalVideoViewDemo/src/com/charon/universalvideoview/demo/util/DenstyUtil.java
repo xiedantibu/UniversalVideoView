@@ -1,4 +1,4 @@
-package com.charon.universalvideoview.util;
+package com.charon.universalvideoview.demo.util;
 
 import android.content.Context;
 import android.content.res.Resources;

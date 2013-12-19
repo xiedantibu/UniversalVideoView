@@ -1,4 +1,4 @@
-package com.charon.universalvideoview;
+package com.charon.universalvideoview.demo;
 
 import android.app.Activity;
 import android.content.Context;
@@ -16,7 +16,7 @@ import android.widget.LinearLayout.LayoutParams;
 import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
 
-import com.charon.universalvideoview.util.DenstyUtil;
+import com.charon.universalvideoview.demo.util.DenstyUtil;
 import com.charon.universalvideoview.video.MediaController;
 import com.charon.universalvideoview.video.UniversalVideoView;
 import com.charon.universalvideoview.video.UniversalVideoView.OnStateChangeListener;
