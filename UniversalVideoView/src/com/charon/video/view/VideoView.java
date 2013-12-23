@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.charon.universalvideoview.video;
+package com.charon.video.view;
 
 import java.io.IOException;
 
-import com.charon.universalvideoview.video.VideoView.OnStateChangeListener.State;
+import com.charon.video.view.VideoView.OnStateChangeListener.State;
 
 import android.R;
 import android.annotation.SuppressLint;

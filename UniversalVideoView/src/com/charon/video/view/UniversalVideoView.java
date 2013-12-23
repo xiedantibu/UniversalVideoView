@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.charon.universalvideoview.video;
+package com.charon.video.view;
 
 import io.vov.vitamio.Metadata;
 import io.vov.vitamio.Vitamio;
 
 import java.io.IOException;
 
-import com.charon.universalvideoview.video.UniversalVideoView.OnStateChangeListener.State;
+import com.charon.video.view.UniversalVideoView.OnStateChangeListener.State;
 
 import android.R;
 import android.annotation.SuppressLint;

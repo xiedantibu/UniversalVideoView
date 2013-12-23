@@ -1,4 +1,4 @@
-package com.charon.universalvideoview.util;
+package com.charon.video.util;
 
 import java.util.Arrays;
 import java.util.Iterator;

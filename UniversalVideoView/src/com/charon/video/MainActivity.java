@@ -1,4 +1,4 @@
-package com.charon.universalvideoview.demo;
+package com.charon.video;
 
 import android.app.Activity;
 import android.content.Intent;

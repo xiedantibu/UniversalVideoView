@@ -1,5 +1,4 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/ll_root"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -9,11 +8,11 @@
     <RelativeLayout
         android:id="@+id/rl_video"
         android:layout_width="match_parent"
-        android:layout_height="240dp"
+        android:layout_height="match_parent"
         android:background="#00ff00"
         android:gravity="center" >
 
-        <com.charon.universalvideoview.video.UniversalVideoView
+        <com.charon.video.view.UniversalVideoView
             android:id="@+id/uvv"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -26,10 +25,10 @@
     </RelativeLayout>
 
     <Button
+        android:visibility="gone"
         android:id="@+id/btn"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="空白"
-        tools:ignore="HardcodedText" />
+        android:text="空白" />
 
 </LinearLayout>

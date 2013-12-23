@@ -1,4 +1,4 @@
-package com.charon.universalvideoview.video;
+package com.charon.video.view;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -21,8 +21,8 @@ import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
 
-import com.charon.universalvideoview.R;
-import com.charon.universalvideoview.util.StringUtils;
+import com.charon.video.R;
+import com.charon.video.util.StringUtils;
 
 public class MediaController extends FrameLayout {
 

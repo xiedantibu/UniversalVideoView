@@ -1,4 +1,4 @@
-package com.charon.universalvideoview.demo;
+package com.charon.video;
 
 import android.app.Activity;
 import android.content.Context;
@@ -16,10 +16,10 @@ import android.widget.LinearLayout.LayoutParams;
 import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
 
-import com.charon.universalvideoview.demo.util.DenstyUtil;
-import com.charon.universalvideoview.video.MediaController;
-import com.charon.universalvideoview.video.UniversalVideoView;
-import com.charon.universalvideoview.video.UniversalVideoView.OnStateChangeListener;
+import com.charon.video.util.DenstyUtil;
+import com.charon.video.view.MediaController;
+import com.charon.video.view.UniversalVideoView;
+import com.charon.video.view.UniversalVideoView.OnStateChangeListener;
 
 /*
  * We can use setOnPreparedListener to set the loading view or use setOnStateChangeListener to get 
